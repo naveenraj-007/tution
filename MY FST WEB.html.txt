@@ -1,0 +1,57 @@
+<title>
+
+
+<center>
+    <h2>🙏welcome🙏</h1>
+    <h1 >ℕ𝔸𝕍𝕀ℕ'𝕊 𝕋𝕌𝕋𝕀𝕆ℕ ℂ𝔼ℕ𝕋𝔼ℝ 📕</h1>
+    <h2>!Where Learning Meets Excellence!</h2>
+    <img src="C:\Users\Admin\Desktop\HTML\ChatGPT Image Jun 9, 2025, 12_40_43 PM.png" width =500px>
+<hr>
+</center> 
+<h1>ᴀʙᴏᴜᴛ ᴜꜱ :</h1>
+<p> Welcome to Navin's Tuition Center – Where Learning Meets Excellence!
+    At Navin’s Tuition Center, we believe every student has the potential to succeed with the right guidance and support. Our mission is to provide high-quality, personalized education that builds strong academic foundations and boosts confidence. With experienced teachers, a student-friendly environment, and a focus on both academic success and personal growth, we help learners from all backgrounds achieve their goals. Whether it's school subjects, exam preparation, or concept clarity, Navin’s is the place where success begins.
+    
+</p>
+
+<h1>ᴡʜᴀᴛ ᴡᴇ ᴏꜰꜰᴇʀ ❓❓:</h1>
+<ol>
+    <li>special coaching for
+        <ul>
+            <li>grade 10</li>
+            <li>grade 11</li>
+            <li>grade 12</li>
+        </ul>
+    </li>
+    <li>foundation class from grade 6 to 9</li>
+    <li>offer schlorship for bright students</li>
+    <li>special care for physically challenged students</li>
+</ol>
+<h1>ʟᴇᴀʀɴɪɴɢ ᴛɪᴍᴇ 🕓 :</h1>
+starts at 5pm and ends at 7pm
+<h1>ꜰᴇᴇꜱ  ꜱᴛʀᴜᴄᴛᴜʀᴇ 💵:</h1>
+<ul>
+    <li>If you are from grade 6 to 9 --- 1500/month</li>
+    <li>If you are grade 10 --- 2500/month</li>
+    <li>If you are grade 11 --- 4000/month</li>
+    <li>If you are grade 12 --- 5000/month</li>
+</ul>
+<h1>ɪᴍᴘᴏʀᴛᴀɴᴛ ɴᴏᴛᴇ 📋 :</h1>
+<p>Admissions are open for a limited number of seats only. To ensure the best attention and quality learning for every student, we maintain small batch sizes. Please register early to confirm your spot. For any queries, feel free to contact us directly.</p>
+<center>
+<h1>--- ᴄᴏɴᴛᴀᴄᴛ ᴜꜱ ---</h1>
+email : xyz@gmail.com <br>
+ phone : +91 95021 87501
+ <h1>--- ꜰᴏʟʟᴏᴡ ᴜꜱ ᴏɴ ---</h1>
+    <img src="C:\Users\Admin\Desktop\HTML\iiiii.jpg" width="45px">
+    <img src="C:\Users\Admin\Desktop\HTML\f.jpg" width ="30px">
+    <img src="C:\Users\Admin\Desktop\HTML\yy.png" width ="30px">
+    <img src="C:\Users\Admin\Desktop\HTML\ww.png" width ="25px">
+
+</center>
+<hr>
+<center>
+    <h1>HURRY UP **** LIMITED SEATS</h1>
+    
+</center>
+
